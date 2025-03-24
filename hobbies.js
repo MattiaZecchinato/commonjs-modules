@@ -10,4 +10,4 @@ function retHobbies (hobbyOne, hobbyTwo, hobbyThree) {
     return arrayHobbies;
 }
 
-export default retHobbies;
+module.exports = retHobbies;

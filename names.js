@@ -9,4 +9,4 @@ function retNames (firstName, lastName) {
     return objNames;
 }
 
-export default retNames;
+module.exports = retNames;

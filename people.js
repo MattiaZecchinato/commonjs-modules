@@ -1,5 +1,5 @@
-import funcNames from './names.js';
-import funcHobbies from './hobbies.js';
+const funcNames = require('./names.js');
+const funcHobbies = require('./hobbies.js');
 
 const retObj = retNamesHobbies();
 console.log(retObj);
